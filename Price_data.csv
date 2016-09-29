@@ -1,0 +1,5 @@
+id,packaging_cost,production_cost,purchase_price,selling_price,mrp,service_tax_percent,vat_percent,foodbox_fee,restaurant_fee
+7104,0,0,0,133.66,139.02,15,4,40,87.66
+2634,0,0,0,106.86,109,15,2,37.27,64
+2630,0,0,0,116.67,119,15,2,37.97,73
+2624,0,0,0,97.05,99,15,2,34.83,57
